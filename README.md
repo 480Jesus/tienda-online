@@ -1,4 +1,4 @@
-?# Sistema de Procesamiento de Pedidos
+Sistema de Procesamiento de Pedidos
 
 Aplicacion Java por consola para crear y confirmar pedidos.
 
